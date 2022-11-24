@@ -1,7 +1,6 @@
 # 💫 About Me:
 23y<br>Vila Nova de Gaia, Portugal<br>Student @ 42 Porto
 
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ZPedro99) 
 
