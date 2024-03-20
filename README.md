@@ -1,17 +1,11 @@
-# 💫 About Me:
-24y<br>Vila Nova de Gaia, Portugal<br>Student @ 42 Porto
+<h1 align="center">Hello and welcome to my Github Profile! 💻</h1>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ZPedro99&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="top languages" /></p>
+<p>🧔🏻‍♀️  My name is José Gonçalves, a 24-year-old junior dev from <b>Portugal</b> ;</p>
+<p>🧑🏻‍💻  Currently i'm a student at <b>42 Porto</b> since November 2022 ;</p>
+<p>⌨️  <b>C, C++, SQL, Docker and Shell</b> are currently part of my tech stack ;</p>
+<p>🧐  I'm currently learning <b>Python, Javascript and HTML</b> ;</p>
+<p>📞  Feel free to contact me via <a href="https://www.linkedin.com/in/jose-pedro-goncalves/">Linkedin</a> ;</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ZPedro99) 
+<img align="right" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="Alt Text" width="36%" style="vertical-align: middle;">
 
-# 💻 Tech Stack:
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ZPedro99&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ZPedro99&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZPedro99&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=ZPedro99&icon=5&color=6)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/jomirand?1337Badge=off&UM6P=off" alt="jomirand's 42 stats" /></a>
